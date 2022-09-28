@@ -1,2 +1,4 @@
+#!/bin/bash
 # command used to create a new file
-touch up_to_date
+touch up_to_date 
+git pull
